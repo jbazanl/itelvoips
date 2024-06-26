@@ -1,0 +1,161 @@
+ :: Jun 23 15:41:57 :: New Hit
+ :: Jun 23 15:41:57 :: [hostname : freesw][section : dialplan][tag_name : ][key_name : ][key_value : ][Event-Name : REQUEST_PARAMS][Core-UUID : dd22d9eb-8554-4708-91b5-2333c41066ca][FreeSWITCH-Hostname : freesw][FreeSWITCH-Switchname : freesw][FreeSWITCH-IPv4 : 45.126.208.166][FreeSWITCH-IPv6 : ::1][Event-Date-Local : 2024-06-23 15:41:57][Event-Date-GMT : Sun, 23 Jun 2024 20:41:57 GMT][Event-Date-Timestamp : 1719175317297284][Event-Calling-File : mod_dialplan_xml.c][Event-Calling-Function : dialplan_xml_locate][Event-Calling-Line-Number : 610][Event-Sequence : 17817][Channel-State : CS_ROUTING][Channel-Call-State : RINGING][Channel-State-Number : 2][Channel-Name : sofia/internal/jbl2024@45.126.208.161:5060][Unique-ID : a05f3423-e130-4952-a4b4-a401c2aecdab][Call-Direction : inbound][Presence-Call-Direction : inbound][Channel-HIT-Dialplan : true][Channel-Presence-ID : jbl2024@45.126.208.161][Channel-Call-UUID : a05f3423-e130-4952-a4b4-a401c2aecdab][Answer-State : ringing][Caller-Direction : inbound][Caller-Logical-Direction : inbound][Caller-Username : jbl2024][Caller-Dialplan : XML][Caller-Caller-ID-Name : 2024][Caller-Caller-ID-Number : jbl2024][Caller-Orig-Caller-ID-Name : 2024][Caller-Orig-Caller-ID-Number : jbl2024][Caller-Network-Addr : 45.126.208.161][Caller-ANI : jbl2024][Caller-Destination-Number : 51983434724][Caller-Unique-ID : a05f3423-e130-4952-a4b4-a401c2aecdab][Caller-Source : mod_sofia][Caller-Context : default][Caller-Channel-Name : sofia/internal/jbl2024@45.126.208.161:5060][Caller-Profile-Index : 1][Caller-Profile-Created-Time : 1719175317277368][Caller-Channel-Created-Time : 1719175317277368][Caller-Channel-Answered-Time : 0][Caller-Channel-Progress-Time : 0][Caller-Channel-Progress-Media-Time : 0][Caller-Channel-Hangup-Time : 0][Caller-Channel-Transfer-Time : 0][Caller-Channel-Resurrect-Time : 0][Caller-Channel-Bridged-Time : 0][Caller-Channel-Last-Hold : 0][Caller-Channel-Hold-Accum : 0][Caller-Screen-Bit : true][Caller-Privacy-Hide-Name : false][Caller-Privacy-Hide-Number : false][variable_direction : inbound][variable_uuid : a05f3423-e130-4952-a4b4-a401c2aecdab][variable_session_id : 28][variable_sip_from_user : jbl2024][variable_sip_from_port : 5060][variable_sip_from_uri : jbl2024@45.126.208.161:5060][variable_sip_from_host : 45.126.208.161][variable_video_media_flow : disabled][variable_audio_media_flow : disabled][variable_text_media_flow : disabled][variable_channel_name : sofia/internal/jbl2024@45.126.208.161:5060][variable_sip_call_id : ZGMyYmM5NGIxYWU4MTljZWRiZWNjOWRlOGQ1MWFhOTY.][variable_sip_local_network_addr : 45.126.208.166][variable_sip_network_ip : 45.126.208.161][variable_sip_network_port : 5060][variable_sip_invite_stamp : 1719175317277368][variable_sip_received_ip : 45.126.208.161][variable_sip_received_port : 5060][variable_sip_via_protocol : udp][variable_sip_from_user_stripped : jbl2024][variable_sip_from_tag : 8f66cf3e][variable_sofia_profile_name : internal][variable_sofia_profile_url : sip:mod_sofia@45.126.208.166:5070][variable_recovery_profile_name : internal][variable_sip_invite_route_uri : <sip:10.118.0.2:5060;nat=yes;ftag=8f66cf3e;lr=on>][variable_sip_invite_record_route : <sip:10.118.0.2:5060;nat=yes;ftag=8f66cf3e;lr=on>][variable_sip_full_via : SIP/2.0/UDP 45.126.208.161;branch=z9hG4bKee5c.9dbdca09e903de8fd0f417596dfe32f7.0,SIP/2.0/UDP 38.253.146.50:37083;received=38.253.146.50;branch=z9hG4bK-d8754z-c92cb15f07419a17-1---d8754z-;rport=37083][variable_sip_from_display : 2024][variable_sip_full_from : "2024" <sip:jbl2024@45.126.208.161:5060>;tag=8f66cf3e][variable_sip_full_to : <sip:51983434724@45.126.208.161:5060>][variable_sip_allow : INVITE, ACK, CANCEL, OPTIONS, BYE, REGISTER, SUBSCRIBE, NOTIFY, REFER, INFO, MESSAGE][variable_sip_req_user : 51983434724][variable_sip_req_port : 5060][variable_sip_req_uri : 51983434724@45.126.208.161:5060][variable_sip_req_host : 45.126.208.161][variable_sip_to_user : 51983434724][variable_sip_to_port : 5060][variable_sip_to_uri : 51983434724@45.126.208.161:5060][variable_sip_to_host : 45.126.208.161][variable_sip_contact_params : rinstance=a5e8217c44097488][variable_sip_contact_user : jbl2024][variable_sip_contact_port : 37083][variable_sip_contact_uri : jbl2024@38.253.146.50:37083][variable_sip_contact_host : 38.253.146.50][variable_rtp_use_codec_string : G722,G729,PCMU,PCMA,VP8][variable_sip_user_agent : 3CXPhone 6.0.26523.0][variable_sip_via_host : 45.126.208.161][variable_max_forwards : 69][variable_presence_id : jbl2024@45.126.208.161][variable_sip_h_X-MEDIP : 38.253.146.50][variable_sip_h_X-ACCOUNTCODE : STCJBLSTORE38][variable_sip_h_X-DEVICEID : 6][variable_sip_h_X-DEVICECC : 1][variable_sip_h_X-DEVICECPS : 1][variable_sip_h_X-ACCOUNTID : 15][variable_sip_h_X-ACCOUNTCC : 1][variable_sip_h_X-ACCOUNTCPS : 1][variable_sip_h_X-DEVICETYPE : u][variable_sip_h_X-RE : <null>][variable_sip_h_X-AI : <null>][variable_sip_h_X-PU : <null>][variable_switch_r_sdp : v=0
+o=3cxVCE 379867995 21221055 IN IP4 38.253.146.50
+s=3cxVCE Audio Call
+c=IN IP4 38.253.146.50
+t=0 0
+m=audio 37942 RTP/AVP 0 8 3 101
+a=rtpmap:0 PCMU/8000
+a=rtpmap:8 PCMA/8000
+a=rtpmap:3 GSM/8000
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-15
+a=ptime:20
+m=video 37944 RTP/AVP 34
+c=IN IP4 38.253.146.50
+a=rtpmap:34 H263/90000
+a=fmtp:34 QCIF=1;CIF=1;SQCIF=1;CIF4=1
+][variable_ep_codec_string : CORE_PCM_MODULE.PCMU@8000h@20i@64000b,CORE_PCM_MODULE.PCMA@8000h@20i@64000b][variable_endpoint_disposition : DELAYED NEGOTIATION][variable_call_uuid : a05f3423-e130-4952-a4b4-a401c2aecdab][Hunt-Direction : inbound][Hunt-Logical-Direction : inbound][Hunt-Username : jbl2024][Hunt-Dialplan : XML][Hunt-Caller-ID-Name : 2024][Hunt-Caller-ID-Number : jbl2024][Hunt-Orig-Caller-ID-Name : 2024][Hunt-Orig-Caller-ID-Number : jbl2024][Hunt-Network-Addr : 45.126.208.161][Hunt-ANI : jbl2024][Hunt-Destination-Number : 51983434724][Hunt-Unique-ID : a05f3423-e130-4952-a4b4-a401c2aecdab][Hunt-Source : mod_sofia][Hunt-Context : default][Hunt-Channel-Name : sofia/internal/jbl2024@45.126.208.161:5060][Hunt-Profile-Index : 1][Hunt-Profile-Created-Time : 1719175317277368][Hunt-Channel-Created-Time : 1719175317277368][Hunt-Channel-Answered-Time : 0][Hunt-Channel-Progress-Time : 0][Hunt-Channel-Progress-Media-Time : 0][Hunt-Channel-Hangup-Time : 0][Hunt-Channel-Transfer-Time : 0][Hunt-Channel-Resurrect-Time : 0][Hunt-Channel-Bridged-Time : 0][Hunt-Channel-Last-Hold : 0][Hunt-Channel-Hold-Accum : 0][Hunt-Screen-Bit : true][Hunt-Privacy-Hide-Name : false][Hunt-Privacy-Hide-Number : false]
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: SELECT id, currency_id,ratio,date  from sys_currencies_conversions where id in (select max(id) from sys_currencies_conversions group by currency_id) order by id desc;
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: SELECT round_logic,   max_callduration, codecs_force, force_dst_src_cli_prefix, account.account_id, status_id  account_status, account.account_type, parent_account_id, dp, customer_voipminuts.tariff_id, account_cc, account_cps, tax1, tax2, tax3, tax_type, currency_id, cli_check, dialpattern_check, llr_check, account_codecs, media_transcoding, media_rtpproxy  from account INNER JOIN customer_voipminuts on customer_voipminuts.account_id = account.account_id where account.account_id = 'STCJBLSTORE38';
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: select company_name , name  from customers where account_id = 'STCJBLSTORE38';
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: select customer_sip_account.username,
+customer_sip_account.secret,
+customer_sip_account.ipaddress,
+customer_sip_account.`status`,
+customer_sip_account.sip_cc,
+customer_sip_account.sip_cps,
+customer_sip_account.ipauthfrom,
+customer_sip_account.extension_no,
+customer_sip_account.voicemail_enabled,
+customer_sip_account.voicemail,
+customer_sip_account.display_name,
+customer_sip_account.caller_id,
+customer_sip_account.cli_prefer,
+customer_sip_account.codecs,
+customer_sip_account.moh_sound,
+customer_sip_account.`name`,
+customer_sip_account.email_address,
+customer_sip_account.phone_number,
+customer_sip_account.ring_timeout,
+customer_sip_account.call_forward_all,
+customer_sip_account.cfall_destination_type,
+customer_sip_account.cfall_destination,
+customer_sip_account.call_forward_no_answer,
+customer_sip_account.cfnoans_destination_type,
+customer_sip_account.cfnoans_destination,
+customer_sip_account.call_forward_busy,
+customer_sip_account.cfbusy_destination_type,
+customer_sip_account.cfbusy_destination,
+customer_sip_account.cfnoans_timeout,
+customer_sip_account.call_recording,
+customer_sip_account.dnd,
+customer_sip_account.created_by,
+customer_sip_account.created_by_account_id,
+customer_sip_account.updated_by,
+customer_sip_account.created_dt,
+customer_sip_account.updated_dt,
+customer_sip_account.user_type,
+customer_sip_account.extension_id,
+customer_sip_account.pushtoken,
+customer_sip_account.firebasetoken,
+customer_sip_account.appos,
+customer_sip_account.id, '1' as tariff_status,  '' as ratecard_id, '' as  tariff_id, 0 as start_day, 6 asend_day, '00:00:00' start_time, '23:59:59' as end_time, '51983434724' as prefix, '51983434724' as destination,  0 as rate, 0 as connection_charge,  1 as minimal_time, 1 as resolution_time,  0 as grace_period,  0 as rate_multiplier, 0 as rate_addition, '1' as rates_status, '' as tariff_currency_id, '' as tariff_currency_id, 0 as monthly_charges, '0' as bundle_option, '' as bundle1_type, 0 as bundle1_value, '' as bundle2_type, 0 as bundle2_value, '' as bundle3_type, 0 as bundle3_value from customer_sip_account where account_id = 'STCJBLSTORE38' and extension_no = '51983434724';
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: select extension_no as dst_extension_no from customer_sip_account where extension_no = '51983434724' and account_id ='STCJBLSTORE38';
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: SELECT LENGTH(maching_string) lndata,  match_length, id, account_id, maching_string, remove_string, display_string, add_string, action_type  FROM customer_dialpattern where account_id = 'STCJBLSTORE38' and '51983434724' like maching_string and route = 'OUTBOUND' ORDER BY lndata desc limit 1;
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: Outgoing user dialplan status OK
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: select customer_sip_account.username,
+customer_sip_account.secret,
+customer_sip_account.ipaddress,
+customer_sip_account.`status`,
+customer_sip_account.sip_cc,
+customer_sip_account.sip_cps,
+customer_sip_account.ipauthfrom,
+customer_sip_account.extension_no,
+customer_sip_account.voicemail_enabled,
+customer_sip_account.voicemail,
+customer_sip_account.display_name,
+customer_sip_account.caller_id,
+customer_sip_account.cli_prefer,
+customer_sip_account.codecs,
+customer_sip_account.moh_sound,
+customer_sip_account.`name`,
+customer_sip_account.email_address,
+customer_sip_account.phone_number,
+customer_sip_account.ring_timeout,
+customer_sip_account.call_forward_all,
+customer_sip_account.cfall_destination_type,
+customer_sip_account.cfall_destination,
+customer_sip_account.call_forward_no_answer,
+customer_sip_account.cfnoans_destination_type,
+customer_sip_account.cfnoans_destination,
+customer_sip_account.call_forward_busy,
+customer_sip_account.cfbusy_destination_type,
+customer_sip_account.cfbusy_destination,
+customer_sip_account.cfnoans_timeout,
+customer_sip_account.call_recording,
+customer_sip_account.dnd,
+customer_sip_account.created_by,
+customer_sip_account.created_by_account_id,
+customer_sip_account.updated_by,
+customer_sip_account.created_dt,
+customer_sip_account.updated_dt,
+customer_sip_account.user_type,
+customer_sip_account.extension_id,
+customer_sip_account.pushtoken,
+customer_sip_account.firebasetoken,
+customer_sip_account.appos,
+customer_sip_account.id, '1' as tariff_status,  '' as ratecard_id, '' as  tariff_id, 0 as start_day, 6 asend_day, '00:00:00' start_time, '23:59:59' as end_time, '51983434724' as prefix, '51983434724' as destination,  0 as rate, 0 as connection_charge,  1 as minimal_time, 1 as resolution_time,  0 as grace_period,  0 as rate_multiplier, 0 as rate_addition, '1' as rates_status, '' as tariff_currency_id, '' as tariff_currency_id, 0 as monthly_charges, '0' as bundle_option, '' as bundle1_type, 0 as bundle1_value, '' as bundle2_type, 0 as bundle2_value, '' as bundle3_type, 0 as bundle3_value from customer_sip_account where account_id = 'STCJBLSTORE38' and extension_no = '51983434724';
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: select extension_no as dst_extension_no from customer_sip_account where extension_no = '51983434724' and account_id ='STCJBLSTORE38';
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: SELECT id, credit_limit - balance as 'balance'  from customer_balance where account_id = 'STCJBLSTORE38';
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: STCJBLSTORE38 user balance befor process is 50.000000
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: PSTN_CALL   SELECT   tariff.tariff_status,  tariff_ratecard_map.ratecard_id, tariff_ratecard_map.tariff_id, tariff_ratecard_map.start_day, tariff_ratecard_map.end_day, tariff_ratecard_map.start_time, tariff_ratecard_map.end_time, customer_rates.prefix,   REPLACE(REPLACE( customer_rates.destination,',',' '),'-',' ') as destination, customer_rates.rate, customer_rates.connection_charge, customer_rates.minimal_time, customer_rates.resolution_time, customer_rates.grace_period, customer_rates.rate_multiplier, customer_rates.rate_addition, customer_rates.rates_status, tariff.tariff_currency_id, tariff.tariff_currency_id  FROM tariff_ratecard_map  INNER JOIN customer_rates on customer_rates.ratecard_id = tariff_ratecard_map.ratecard_id    INNER JOIN ratecard on customer_rates.ratecard_id = ratecard.ratecard_id and ratecard.ratecard_for = 'OUTGOING' INNER JOIN tariff on  tariff.tariff_id = tariff_ratecard_map.tariff_id where WEEKDAY(CURDATE()) BETWEEN start_day and end_day AND CURTIME() BETWEEN start_time and end_time and tariff_ratecard_map.tariff_id = 'TFJBL49' and (prefix = '5' or prefix = '51' or prefix = '519' or prefix = '5198' or prefix = '51983' or prefix = '519834' or prefix = '5198343' or prefix = '51983434' or prefix = '519834347' or prefix = '5198343472' or prefix = '51983434724')  ORDER BY priority asc, prefix desc,   rate ASC, end_time ASC limit 1;
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: SELECT bundle_account.bundle_package_id, bundle_account.account_id, bundle_account.assign_dt, bundle_account.account_bundle_key, bundle_account.bundle_package_desc, if(MONTH(assign_dt) = MONTH(CURDATE()),1,0) AS isthismonthbuy, bundle_package.monthly_charges, bundle_package.bundle_option, bundle_package.bundle1_type, bundle_package.bundle1_value, bundle_package.bundle2_type, bundle_package.bundle2_value, bundle_package.bundle3_type, bundle_package.bundle3_value, bundle_package.bundle_package_id, bundle_package.bundle_package_name FROM bundle_account INNER JOIN bundle_package on bundle_package.bundle_package_id = bundle_account.bundle_package_id where bundle_account.account_id = 'STCJBLSTORE38' and account_bundle_key not in ( select account_bundle_key from customer_bundle_sdr where account_id = 'STCJBLSTORE38' and '2024-06-23'  BETWEEN service_startdate and service_stopdate);
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: SELECT  bundle_option, bundle_id, prefix , bundle_package_prefixes.bundle_package_id, monthly_charges,   bundle1_type, bundle1_value, bundle2_type, bundle2_value, bundle3_type, bundle3_value from bundle_package INNER JOIN bundle_package_prefixes on bundle_package_prefixes.bundle_package_id = bundle_package.bundle_package_id  where bundle_package_prefixes.bundle_package_id in (select bundle_package_id from bundle_account where account_id  = 'STCJBLSTORE38') and  (prefix = '5' or prefix = '51' or prefix = '519' or prefix = '5198' or prefix = '51983' or prefix = '519834' or prefix = '5198343' or prefix = '51983434' or prefix = '519834347' or prefix = '5198343472' or prefix = '51983434724') and LENGTH(prefix) > 0  order by prefix desc limit 1;
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: STCJBLSTORE38
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: SELECT remove_string, add_string, LENGTH(maching_string) lndata, id, account_id, dialplan_id, maching_string, display_string FROM customer_dialplan where account_id = 'STCJBLSTORE38' and ('51983434724' like maching_string or  '51983434724' like maching_string) ORDER BY lndata DESC limit 1;
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: select count(id) ccount from livecalls where customer_account_id = 'STCJBLSTORE38' limit 1
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: Normal duration 3000
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: Bundle duration 
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: Normal duration 3000
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: select round_logic, account_level, account.account_id, customer_voipminuts.tariff_id, account.account_type, parent_account_id, dp,account_cc, account_cps,tax1,tax2,tax3,tax_type, status_id account_status, currency_id, cli_check, dialpattern_check, llr_check from account INNER JOIN customer_voipminuts on customer_voipminuts.account_id = account.account_id where account.account_id = 'STR500000';
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: select customer_sip_account.*, '1' as tariff_status,  '' as ratecard_id, '' as  tariff_id, 0 as start_day, 6 asend_day, '00:00:00' start_time, '23:59:59' as end_time, '51983434724' as prefix, '51983434724' as destination,  0 as rate, 0 as connection_charge,  1 as minimal_time, 1 as resolution_time,  0 as grace_period,  0 as rate_multiplier, 0 as rate_addition, '1' as rates_status, '' as tariff_currency_id, '' as tariff_currency_id, 0 as monthly_charges, '0' as bundle_option, '' as bundle1_type, 0 as bundle1_value, '' as bundle2_type, 0 as bundle2_value, '' as bundle3_type, 0 as bundle3_value from customer_sip_account where account_id = 'STR500000' and extension_no = '51983434724';
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: select extension_no as dst_extension_no from customer_sip_account where extension_no = '51983434724' and account_id ='STCJBLSTORE38';
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: select count(id) ccount from livecalls where reseller1_account_id = 'STR500000'  limit 1
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: SELECT LENGTH(maching_string) lndata, match_length, id, account_id, maching_string, remove_string, display_string, add_string, action_type FROM customer_dialpattern where account_id = 'STR500000' and '51983434724' like maching_string  and route = 'OUTBOUND' ORDER BY lndata desc limit 1;
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: SELECT id, credit_limit - balance balance from customer_balance where account_id = 'STR500000';
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: SELECT id, account_id, dialplan_id FROM reseller_dialplan WHERE account_id = 'STR500000' and  dialplan_id = 'ROUTEDEF34' limit 1;
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: SELECT tariff.tariff_status,  tariff_ratecard_map.ratecard_id, tariff_ratecard_map.tariff_id, tariff_ratecard_map.start_day, tariff_ratecard_map.end_day, tariff_ratecard_map.start_time, tariff_ratecard_map.end_time, customer_rates.prefix, REPLACE(REPLACE( customer_rates.destination,',',' '),'-',' ') as destination , customer_rates.rate, customer_rates.connection_charge, customer_rates.minimal_time, customer_rates.resolution_time, customer_rates.grace_period, customer_rates.rate_multiplier, customer_rates.rate_addition, customer_rates.rates_status, tariff.tariff_currency_id     FROM tariff_ratecard_map  INNER JOIN customer_rates on customer_rates.ratecard_id = tariff_ratecard_map.ratecard_id  INNER JOIN ratecard on customer_rates.ratecard_id = ratecard.ratecard_id and ratecard.ratecard_for = 'OUTGOING' INNER JOIN tariff on  tariff.tariff_id = tariff_ratecard_map.tariff_id where WEEKDAY(CURDATE()) BETWEEN start_day and end_day AND CURTIME() BETWEEN start_time and end_time and tariff_ratecard_map.tariff_id = 'TFFQUISP44' and (prefix = '5' or prefix = '51' or prefix = '519' or prefix = '5198' or prefix = '51983' or prefix = '519834' or prefix = '5198343' or prefix = '51983434' or prefix = '519834347' or prefix = '5198343472' or prefix = '51983434724')  ORDER BY priority asc, prefix desc,  rate ASC, end_time ASC limit 1;
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: <?xml version = "1.0" encoding="UTF-8" standalone="no"?>
+                            <document type="OvSwitch/xml"><section name="dialplan" description="RE Dial Plan For OV500-2.0.0">
+<context name="default">
+<extension name="outbound_international">
+                <condition field="destination_number" expression="^(.+)$">
+<action application="set" data="SWITCH_ISSUE=0"/>
+<action application="export" data="SWITCH_ISSUE=0"/>
+<action application="set" data="hangup_after_bridge=TRUE"/>
+<action application="pre_answer"/>
+ <action application="set" data="USERCODECSCLIST=PCMU,PCMA,GSM"/>
+ <action application="export" data="USERCODECSCLIST=PCMU,PCMA,GSM"/>
+<action application="set" data="common_uuid=a05f3423-e130-4952-a4b4-a401c2aecdab"/>
+<action application="export" data="common_uuid=a05f3423-e130-4952-a4b4-a401c2aecdab"/>
+<action application="set" data="caller_callid=ZGMyYmM5NGIxYWU4MTljZWRiZWNjOWRlOGQ1MWFhOTY."/>
+<action application="export" data="caller_callid=ZGMyYmM5NGIxYWU4MTljZWRiZWNjOWRlOGQ1MWFhOTY."/>
+<action application="set" data="userdata={'user':{'round_logic':null,'max_callduration':'30','codecs_force':'0','force_dst_src_cli_prefix':'0','account_id':'STCJBLSTORE38','account_type':'CUSTOMER','parent_account_id':'STR500000','dp':'4','tariff_id':'TFJBL49','account_cc':'1','account_cps':'1','tax1':'0.0000','tax2':'0.0000','tax3':'0.0000','tax_type':'exclusive','currency_id':'1','account_codecs':'G729,PCMU,PCMA,G722','media_transcoding':'0','media_rtpproxy':'0','company_name':'JBL Store','name':'','src_caller':'jbl2024','src_callee':'51983434724','device_id':'6','device_type':'u','src_ip':'38.253.146.50','ipaddress':'38.253.146.50','id':'9','balance':'50.000000','orgbalance':'-50.000000','ratecard_id':'RCJBL34','prefix':'519','destination':'Moviles','rate':'1.000000','connection_charge':'0','minimal_time':'1','resolution_time':'1','grace_period':'0','rate_multiplier':'1.00','rate_addition':'0.00','tariff_currency_id':'1'},'Reseller1':{'round_logic':null,'account_level':'1','account_id':'STR500000','tariff_id':'TFFQUISP44','account_type':'RESELLER','parent_account_id':'','dp':'4','account_cc':'1000','account_cps':'20','tax1':'0.0000','tax2':'0.0000','tax3':'0.0000','tax_type':'exclusive','account_status':'1','currency_id':'1','cli_check':'0','dialpattern_check':'0','llr_check':'0','id':'8','balance':'500.000000','orgbalance':'-500.000000'}}"/>
+<action application="export" data="userdata={'user':{'round_logic':null,'max_callduration':'30','codecs_force':'0','force_dst_src_cli_prefix':'0','account_id':'STCJBLSTORE38','account_type':'CUSTOMER','parent_account_id':'STR500000','dp':'4','tariff_id':'TFJBL49','account_cc':'1','account_cps':'1','tax1':'0.0000','tax2':'0.0000','tax3':'0.0000','tax_type':'exclusive','currency_id':'1','account_codecs':'G729,PCMU,PCMA,G722','media_transcoding':'0','media_rtpproxy':'0','company_name':'JBL Store','name':'','src_caller':'jbl2024','src_callee':'51983434724','device_id':'6','device_type':'u','src_ip':'38.253.146.50','ipaddress':'38.253.146.50','id':'9','balance':'50.000000','orgbalance':'-50.000000','ratecard_id':'RCJBL34','prefix':'519','destination':'Moviles','rate':'1.000000','connection_charge':'0','minimal_time':'1','resolution_time':'1','grace_period':'0','rate_multiplier':'1.00','rate_addition':'0.00','tariff_currency_id':'1'},'Reseller1':{'round_logic':null,'account_level':'1','account_id':'STR500000','tariff_id':'TFFQUISP44','account_type':'RESELLER','parent_account_id':'','dp':'4','account_cc':'1000','account_cps':'20','tax1':'0.0000','tax2':'0.0000','tax3':'0.0000','tax_type':'exclusive','account_status':'1','currency_id':'1','cli_check':'0','dialpattern_check':'0','llr_check':'0','id':'8','balance':'500.000000','orgbalance':'-500.000000'}}"/>
+<action application="set" data="execute_on_answer=sched_hangup +1800 alloted_timeout "/>
+<action application="set" data="fs_errorcode=RESELLERRATE STR500000"/>
+<action application="export" data="fs_errorcode=RESELLERRATE STR500000"/>
+<action application="set" data="SWITCH_ISSUE=1"/>
+<action application="export" data="SWITCH_ISSUE=1"/>
+<action application="set" data="sip_term_status=404"/>
+<action application="export" data="sip_term_status=404 STR500000"/>
+<action application="respond" data="404"/>
+<action application="hangup"/>
+
+                </condition>
+                    </extension>
+                    </context>
+                    </section>
+                    </document>
+a05f3423-e130-4952-a4b4-a401c2aecdab :: Jun 23 15:41:57 :: Call Process time :: 0.0134019851684570 Sec RESELLERRATE
